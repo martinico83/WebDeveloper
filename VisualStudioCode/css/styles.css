@@ -35,8 +35,10 @@ body{
 }
 
 .navegacion-principal{
-
+    padding: 1rem;
 }
 
 .navegacion-principal a{
+    color: var(--blanco);
+    text-decoration: none;
 }
